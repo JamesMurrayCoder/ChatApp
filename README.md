@@ -1,5 +1,4 @@
-# ChatApp
-Messaging application.
+# Messaging Application
 
 Allows users to create an account and communicate through the host. 
 
