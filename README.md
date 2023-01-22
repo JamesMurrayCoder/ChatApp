@@ -1,5 +1,5 @@
 # ChatApp
-Simple chat application.
+Messaging application.
 
 Allows users to create an account and communicate through the host. 
 
